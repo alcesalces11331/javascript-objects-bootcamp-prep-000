@@ -1,4 +1,4 @@
-var playlist = {}
+var playlist = {putsomething: 'in here'}
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = songTitle
